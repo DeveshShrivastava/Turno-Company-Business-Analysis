@@ -4,7 +4,7 @@ This repository contains the analysis performed for Turno, an electric auto-rick
 
 ## Overview
 
-This project performs a data-driven business analysis for **Turno Company** using Python and Excel. The goal is to extract insights from raw data provided in CSV format and deliver a summarized report in Excel. The project is structured to support modular code development and interpretation for business analysis.
+This project performs a data-driven business analysis for **Turno Company** using Python, SQL and Excel. The goal is to extract insights from raw data provided in CSV format and deliver a summarized report in Excel. The project is structured to support modular code development and interpretation for business analysis.
 
 
 ## Objective

@@ -11,7 +11,7 @@ This project performs a data-driven business analysis for **Turno Company** usin
 
 The main objective is to:
 - Analyze the performance data of Turno Company
-- Automate data processing using Python
+- Automate data processing using Python and SQL
 - Generate actionable insights and summaries in Excel format
 
 (Refer to [`Objective.pdf`])
